@@ -1,3 +1,6 @@
+mullers.py
+
+
 Aim:-Implement the Muller’s Algorithm in Python.
 
 Background:-Muller’s method is a Root-Finding Algorithm, a numerical method for solving
@@ -36,3 +39,32 @@ from Step 3.
 x 0 = x 1
 x 1 = x 2
 x 2 = x 3
+
+
+
+Assignment 1-NumPy Hands-On Part-A.ipynb-This file contains implementation of following Numpy Fucntions:-
+
+    1.min
+    2.max
+    3.mean
+    4.argmin
+    5.argmax
+    6.linalg.solve
+    7.flatten
+    8.ravel
+    9.dot Product
+    10.* for Matrix (Element wise multiplication)
+    11.arange followed by reshape
+    12.identity / eye
+    13.sum
+    14.diag
+    15.tril / triu
+
+Assignment 2-NumPy Hands-On Part-B.ipynb-This file contains implementation of my version of the above Numpy Fucntions except linalg.solve.
+
+
+ 
+
+
+
+ 
